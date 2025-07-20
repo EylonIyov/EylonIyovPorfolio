@@ -11,7 +11,12 @@ Welcome to my portfolio showcasing two full-stack applications that demonstrate 
 
 A comprehensive full-stack mobile and web application designed for pet owners to manage their furry friends' profiles and activities.
 
-### 2. 📈 Stocks Portfolio Management System
+### 2. OnlyFiles - A Complete Working Filesystem
+**Repository:** [https://github.com/EylonIyov/FileSystemOS](https://github.com/EylonIyov/FileSystemOS)
+
+As a part of Operating Systems Course, developed a lightweight, block-based filesystem in C - implementing core operations (format, mount/unmount, create/read/write/delete files, directory listing) over a single-file disk image -designed superblock/inode/bitmap metadata structures and wrote comprehensive unit tests to validate edge cases and robustness.
+
+### 3. 📈 Stocks Portfolio Management System
 **Repository:** [github.com/EylonIyov/Stocks-App](https://github.com/EylonIyov/Stocks-App)
 
 A microservices-based stock portfolio management system with real-time tracking, capital gains calculation, and horizontal scaling capabilities.
