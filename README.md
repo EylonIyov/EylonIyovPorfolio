@@ -1,4 +1,4 @@
-# 🚀 My Full-Stack Development Portfolio
+# 🚀 My Software Development Portfolio
 
 Welcome to my portfolio showcasing two full-stack applications that demonstrate my expertise in modern web and mobile development technologies.
 
