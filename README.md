@@ -6,16 +6,23 @@ Welcome to my portfolio showcasing two full-stack applications that demonstrate 
 
 ## 📁 Projects Overview
 
-### 1. 🐕 DogApp - Pet Management and Social Platform
+### 1. 🤖 Computer Use Agent
+**Repository:** [github.com/EylonIyov/LLM-With-Eyes](https://github.com/EylonIyov/LLM-With-Eyes)
+
+An AI-driven computer-use agent that observes the screen, detects UI elements, reasons over them, and acts via mouse/keyboard tools.  
+Implements grounded actions, strict JSON communication with VLMs, and screenshot-based feedback loops — enabling automation that “sees” and interacts with real interfaces.
+
+**Highlights:**
+- 🖼️ Vision-Language reasoning over detected UI boxes with OCR text.
+- 🧠 JSON-based decision schema for deterministic, interpretable actions.
+- ⚙️ Built on **Python**, **OpenAI SDK**, **PyAutoGUI**, **LM Studio**, and **custom OCR/CV modules**.
+- 🪟 Fully local execution pipeline for Windows using MCP tools.
+
+- ### 2. 🐕 DogApp - Pet Management and Social Platform
 **Repository:** [github.com/EylonIyov/dogappv2](https://github.com/EylonIyov/dogappv2)
 
 A comprehensive full-stack mobile and web application designed for pet owners to manage their furry friends' profiles and activities.
-
-### 2. OnlyFiles - A Complete Working Filesystem
-**Repository:** [https://github.com/EylonIyov/FileSystemOS](https://github.com/EylonIyov/FileSystemOS)
-
-As a part of Operating Systems Course, developed a lightweight, block-based filesystem in C - implementing core operations (format, mount/unmount, create/read/write/delete files, directory listing) over a single-file disk image -designed superblock/inode/bitmap metadata structures and wrote comprehensive unit tests to validate edge cases and robustness.
-
+ 
 ### 3. 📈 Stocks Portfolio Management System
 **Repository:** [github.com/EylonIyov/Stocks-App](https://github.com/EylonIyov/Stocks-App)
 
